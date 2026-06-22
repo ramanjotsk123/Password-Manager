@@ -1,0 +1,27 @@
+# Password Manager
+
+A secure password manager built with Python.
+
+## Features
+
+- Add passwords
+- View passwords
+- Store credentials
+- Command-line interface
+
+## Technologies Used
+
+- Python
+
+## Future Improvements
+
+- Search passwords
+- Delete passwords
+- Password generator
+- SQLite database
+- Encryption
+- GUI version
+
+## Author
+
+Ramanjot Singh Kalra
